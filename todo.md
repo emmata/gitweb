@@ -5,6 +5,9 @@
 ### git commit
 ### git status
 ### git log (--stat)
+### git rm 
+### git amend
+### git revert
 
 ## exercice
 - Créer un dossier css avec 2 fichiers
