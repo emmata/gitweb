@@ -5,6 +5,8 @@
 ### git commit
 ### git status
 ### git log (--stat)
+### git rm --cached [filename]
+## git amend
 
 ## exercice
 - Créer un dossier css avec 2 fichiers
